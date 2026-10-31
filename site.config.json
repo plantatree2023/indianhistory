@@ -1,0 +1,140 @@
+{
+  "siteName": {
+    "zh": "时间轴上的印度",
+    "en": "India Through Time"
+  },
+  "countryName": {
+    "zh": "印度",
+    "en": "India"
+  },
+  "pageTitle": "时间轴上的印度｜印度历史大事年表",
+  "imageAlt": "时间轴上的印度：从印度河文明到二十一世纪的印度历史时间轴",
+  "repo": "plantatree2023/indianhistory",
+  "userAgent": "IndianHistoryTimeline",
+  "defaultDataset": "in_zh",
+  "datasets": {
+    "zh": "in_zh",
+    "en": "in_en"
+  },
+  "eraTerms": {
+    "zh": {
+      "era": "时期",
+      "short": "时期"
+    },
+    "en": {
+      "Era": "Era",
+      "eras": "eras",
+      "anEra": "an era",
+      "aShort": "an era"
+    }
+  },
+  "about": {
+    "lead": {
+      "zh": "“时间轴上的印度”把印度历史上的重大事件放在一条可以拖动的时间轴上，按时期着色。<span id=\"aboutSummary\"></span>点开每个事件可以看详细说明和图片。",
+      "en": "<i>India Through Time</i> places the major events of Indian history on one timeline you can drag, colored by era. <span id=\"aboutSummary\"></span>open any event for details and pictures."
+    },
+    "sources": {
+      "zh": "事件文字由本站编写，参考了<a href=\"https://zh.wikipedia.org/\" target=\"_blank\" rel=\"noopener\">维基百科</a>等资料，以 <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a> 许可发布；每个事件的详情页列出了参考链接。",
+      "en": "Event texts were written for this site with reference to <a href=\"https://en.wikipedia.org/\" target=\"_blank\" rel=\"noopener\">Wikipedia</a> and other sources, and are released under <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\" rel=\"noopener\">CC BY-SA 4.0</a>; each event lists its references."
+    },
+    "fonts": {
+      "zh": "标题字体：思源宋体（Noto Serif SC，SIL Open Font License 1.1）。<span id=\"aboutMusic\"></span>",
+      "en": "Fonts: Cinzel for titles and EB Garamond for text (both SIL Open Font License 1.1). <span id=\"aboutMusic\"></span>"
+    }
+  },
+  "titleFont": {
+    "family": "Noto Serif SC Title",
+    "file": "noto-serif-sc-title.woff2",
+    "comment": "标题字体：思源宋体粗体（Noto Serif SC Bold，SIL OFL 1.1，见 css/fonts/OFL-NotoSerifSC.txt）。\n   只含标题与时期名用到的字，其余字符回退到宋体"
+  },
+  "palette": {
+    "light": {
+      "--paper": "#f5eee1",
+      "--texture-ink": "#1f5c45",
+      "--paper-2": "#ece2cf",
+      "--card": "#fffcf5",
+      "--ink": "#2a2118",
+      "--ink-2": "#4a3d30",
+      "--muted": "#73665a",
+      "--line": "#dccfb9",
+      "--red": "#a8401a",
+      "--red-dark": "#7f2e10",
+      "--red-fill": "#a8401a",
+      "--gold": "#b08a3e",
+      "--shadow": "0 6px 18px rgba(70, 40, 10, .14), 0 1px 3px rgba(70, 40, 10, .12)",
+      "--shadow-lg": "0 24px 60px rgba(50, 28, 8, .28)",
+      "--glow-2": "rgba(31, 92, 69, .10)",
+      "--bar-bg": "rgba(255, 252, 245, .6)",
+      "--float-bg": "rgba(255, 252, 245, .92)",
+      "--scrim": "rgba(40, 24, 10, .3)",
+      "--backdrop": "rgba(40, 24, 10, .5)",
+      "--tick-mark": "rgba(42, 33, 24, .5)",
+      "--toast-bg": "#2a2118",
+      "--axis": "#4a3d30",
+      "--tour-dim": "rgba(30, 18, 6, .55)"
+    },
+    "dark": {
+      "--paper": "#16171a",
+      "--texture-ink": "#e8d6b0",
+      "--paper-2": "#1e2023",
+      "--card": "#26282c",
+      "--ink": "#ece5d8",
+      "--ink-2": "#cfc7b8",
+      "--muted": "#9d968a",
+      "--line": "#3a3c40",
+      "--red": "#f0a070",
+      "--red-dark": "#a84a22",
+      "--red-fill": "#a84a22",
+      "--glow-1": "rgba(255, 230, 190, .035)",
+      "--glow-2": "rgba(60, 140, 105, .08)",
+      "--bar-bg": "rgba(22, 23, 26, .82)",
+      "--float-bg": "rgba(38, 40, 44, .94)",
+      "--field-bg": "#1b1c1f",
+      "--toast-bg": "#ece5d8",
+      "--toast-ink": "#16171a",
+      "--axis": "#77746c"
+    }
+  },
+  "compare": [
+    {
+      "id": "cn",
+      "name": {
+        "zh": "中国",
+        "en": "China"
+      },
+      "url": "https://history.zhongshutime.com/"
+    },
+    {
+      "id": "us",
+      "name": {
+        "zh": "美国",
+        "en": "United States"
+      },
+      "url": "https://usa.zhongshutime.com/"
+    },
+    {
+      "id": "gb",
+      "name": {
+        "zh": "英国",
+        "en": "United Kingdom"
+      },
+      "url": "https://uk.zhongshutime.com/"
+    },
+    {
+      "id": "fr",
+      "name": {
+        "zh": "法国",
+        "en": "France"
+      },
+      "url": "https://france.zhongshutime.com/"
+    },
+    {
+      "id": "ru",
+      "name": {
+        "zh": "俄国",
+        "en": "Russia"
+      },
+      "url": "https://russia.zhongshutime.com/"
+    }
+  ]
+}

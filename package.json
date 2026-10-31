@@ -1,0 +1,28 @@
+{
+  "name": "indianhistory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "一个可拖拽浏览的印度历史时间轴网页应用，收录从史前到二十一世纪的四百多个重大历史事件，支持中文和英文。",
+  "scripts": {
+    "start": "history-server",
+    "start:public": "history-server --no-debug",
+    "build": "node tools/build-site.js",
+    "wiki": "history-wiki",
+    "test": "playwright test",
+    "test:report": "playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plantatree2023/indianhistory.git"
+  },
+  "homepage": "https://india.zhongshutime.com/",
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.56.1"
+  },
+  "dependencies": {
+    "history-common": "github:plantatree2023/history-common#0eeea94c181c9a7f7932411fa9c9840255420eae"
+  }
+}
