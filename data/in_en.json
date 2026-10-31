@@ -1275,6 +1275,24 @@
           "author": "Daderot",
           "license": "CC0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cut_brick%2C_Indus_Valley_Tradition%2C_Harappan_Phase%2C_Chanhu_Daro%2C_Pakistan%2C_c._2500-1900_BC_-_Royal_Ontario_Museum_-_DSC09716.JPG"
+        },
+        {
+          "src": "images/97dedf86552988f1.png",
+          "w": 500,
+          "h": 407,
+          "caption": "Major sites of the mature Indus Valley Civilisation, including Chanhudaro in Sindh",
+          "author": "Avantiputra7",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png"
+        },
+        {
+          "src": "images/32d9122f882a01cd.jpg",
+          "w": 500,
+          "h": 375,
+          "caption": "The ruins of Mohenjo-daro, also in Sindh",
+          "author": "Saqib Qayyum",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mohenjo-daro.jpg"
         }
       ],
       "sources": [
@@ -1285,7 +1303,7 @@
       ],
       "type": "Economy",
       "majorScore": 4,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "ochre-pottery",
@@ -1837,6 +1855,14 @@
           "author": "The_Rig_Veda.jpg: неизвестен derivative work: Hunnjazal",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rigved-shlok_10.90.2.png"
+        },
+        {
+          "src": "images/0fe6009cd7c6d90e.jpg",
+          "w": 500,
+          "h": 697,
+          "caption": "The opening verses of the Purusha Sukta in the Rigveda, the first mention of the four varnas",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Rig_Veda.jpg"
         }
       ],
       "sources": [
@@ -1847,7 +1873,7 @@
       ],
       "type": "Society",
       "majorScore": 7,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "gurukula",
@@ -2539,6 +2565,24 @@
           "author": "Photo Dharma from Penang, Malaysia",
           "license": "CC BY 2.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nava_Jetavana_Temple_-_Shravasti_-_013_First_Council_at_Rajagaha_%289241729223%29.jpg"
+        },
+        {
+          "src": "images/3576a90133c21045.jpg",
+          "w": 500,
+          "h": 394,
+          "caption": "The Saptaparni Cave near Rajgir, traditionally the site of the First Buddhist Council",
+          "author": "myself",
+          "license": "CC BY-SA 2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sattapanni.jpg"
+        },
+        {
+          "src": "images/4e3cc226a0069902.jpg",
+          "w": 500,
+          "h": 333,
+          "caption": "Entrance of the Saptaparni Cave",
+          "author": "Gavesako",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saptaparni_cave.jpg"
         }
       ],
       "sources": [
@@ -2549,7 +2593,7 @@
       ],
       "type": "Religion",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "pataliputra",
@@ -4028,6 +4072,24 @@
           "author": "Westindischer Maler um 1400",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Westindischer_Maler_um_1400_001.jpg"
+        },
+        {
+          "src": "images/eb95b908286aa049.jpg",
+          "w": 330,
+          "h": 450,
+          "caption": "Vikramaditya and the vetala, a modern illustration",
+          "author": "Harshadpd at English Wikipedia",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vetal.jpg"
+        },
+        {
+          "src": "images/d10ff1c1731fe22e.jpg",
+          "w": 500,
+          "h": 354,
+          "caption": "Vikramaditya's court, illustrated in the calligraphed Constitution of India",
+          "author": "Abrsinha",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Constitution_Page104a_Rammanohar.jpg"
         }
       ],
       "sources": [
@@ -4038,7 +4100,7 @@
       ],
       "type": "Culture",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "muziris",
@@ -7757,6 +7819,15 @@
           "author": "Marianne North (1830–1890)",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Painting_of_the_Fort_1857.jpg"
+        },
+        {
+          "src": "images/cc27e49c9f66a8bd.jpg",
+          "w": 500,
+          "h": 200,
+          "caption": "Padmini's palace in the tank at Chittorgarh fort, oil painting",
+          "author": "Marianne North (1830–1890)",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oil_painting_of_Padmini%27s_palace_in_the_fort_in_the_midst_of_the_tank.jpg"
         }
       ],
       "sources": [
@@ -7767,7 +7838,7 @@
       ],
       "type": "War",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "malik-kafur",
@@ -8149,6 +8220,15 @@
           "author": "1435-26 artist",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Timur_Celebrates_his_Conquest_of_Delhi_in_1398._Zafarnama_of_Ibrahim_Sultan%2C_Timurid_Shiraz%2C_1436.jpg"
+        },
+        {
+          "src": "images/c8ae1394d4b9534b.jpg",
+          "w": 500,
+          "h": 799,
+          "caption": "The earliest known portrait of Timur, 1405–1409",
+          "author": "1405-1409 artist",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Timur_seated_%28earliest_known_portrait%29%2C_Timurid_genealogy%2C_1405-1409%2C_Samarkand_%28TSMK%2C_H2152%29.jpg"
         }
       ],
       "sources": [
@@ -8159,7 +8239,7 @@
       ],
       "type": "War",
       "majorScore": 7,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "madhava-sangamagrama",
@@ -10097,6 +10177,15 @@
           "author": "Johnson and Henderson",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banganga_Tank_and_Walkeshwar_Temple%2C_Bombay%2C_c._1855.jpg"
+        },
+        {
+          "src": "images/8b33f9e1f1a7187d.jpg",
+          "w": 500,
+          "h": 667,
+          "caption": "Castella de Aguada, built by the Portuguese at Bandra in 1640",
+          "author": "Nicholas (Nichalp)",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castella_de_Aguada_7.jpg"
         }
       ],
       "sources": [
@@ -10107,7 +10196,7 @@
       ],
       "type": "Foreign relations",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "saraighat",
@@ -12370,6 +12459,15 @@
           "author": "Nomu420",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ghalib_academy_15.JPG"
+        },
+        {
+          "src": "images/8d2ebfb8cc3ae17a.jpg",
+          "w": 500,
+          "h": 495,
+          "caption": "Statue of Ghalib at Ghalib ki Haveli, Delhi",
+          "author": "Banswalhemant",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirza_Asadullah_Baig_Khan_ghalib.jpg"
         }
       ],
       "sources": [
@@ -12380,7 +12478,7 @@
       ],
       "type": "Culture",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "indian-railways",
@@ -12499,6 +12597,15 @@
           "author": "Sir Bartle Frere (1815–1884), of the British East India Company, the Chief Commissioner of Sindh",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Scinde_Dawk_stamp.jpg"
+        },
+        {
+          "src": "images/b83af41f7787916c.jpg",
+          "w": 500,
+          "h": 667,
+          "caption": "A British-era letter box in Shimla, c. 1856",
+          "author": "Utkarshraj Atmaram",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:British-era_letter_box_in_Shimla%2C_India.jpg"
         }
       ],
       "sources": [
@@ -12509,7 +12616,7 @@
       ],
       "type": "Science",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "santal-rebellion",
@@ -13014,6 +13121,14 @@
           "author": "Billjones94",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_old_ticket_of_the_Heritage_Monuments_of_India_by_ASI.jpg"
+        },
+        {
+          "src": "images/2042160a2a4225fe.jpg",
+          "w": 500,
+          "h": 474,
+          "caption": "Alexander Cunningham, founder of the Archaeological Survey (fourth from right)",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_Cunningham_of_the_ASI_01.jpg"
         }
       ],
       "sources": [
@@ -13024,7 +13139,7 @@
       ],
       "type": "Science",
       "majorScore": 5,
-      "updatedAt": 1793478457
+      "updatedAt": 1793478985
     },
     {
       "id": "high-courts",
@@ -13616,6 +13731,15 @@
           "caption": "W. C. Bonnerjee, its first president",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:WCBonnerjee.jpg"
+        },
+        {
+          "src": "images/50f0ac074059830a.jpg",
+          "w": 500,
+          "h": 349,
+          "caption": "Nehru and Gandhi at a Congress meeting, 1946",
+          "author": "Max Desfor (1913- 2018) for Associated Press",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nehru_Gandhi_AP_18050506381948_%28cropped%29.jpg"
         }
       ],
       "sources": [
@@ -13626,7 +13750,7 @@
       ],
       "type": "Politics",
       "majorScore": 9,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "anandibai-joshi",
@@ -14128,6 +14252,14 @@
           "author": "DesiBoy101",
           "license": "CC BY 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gopal_Krishna_Gokhale%27s_house_in_the_campus_of_Gokhale_Institute_of_Politics_and_Economics%2C_Pune.jpg"
+        },
+        {
+          "src": "images/8aa18f61e48b648e.jpg",
+          "w": 500,
+          "h": 381,
+          "caption": "The radical leaders Lal, Bal and Pal",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lal_Bal_Pal.jpg"
         }
       ],
       "sources": [
@@ -14138,7 +14270,7 @@
       ],
       "type": "Politics",
       "majorScore": 5,
-      "updatedAt": 1793478457
+      "updatedAt": 1793478985
     },
     {
       "id": "tata-steel",
@@ -14238,6 +14370,15 @@
           "author": "Maull & Fox",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:LordMelgund1885.jpg"
+        },
+        {
+          "src": "images/aa642174731e50c1.jpg",
+          "w": 330,
+          "h": 496,
+          "caption": "John Morley, Secretary of State for India",
+          "author": "W. & D. Downey",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morley-John-Viscount.jpg"
         }
       ],
       "sources": [
@@ -14248,7 +14389,7 @@
       ],
       "type": "Politics",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "iisc-founded",
@@ -14312,6 +14453,14 @@
           "caption": "Plan of the Delhi Durbar arena, 1911",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delhi_Darbar%2C_12_Dec_1911.jpg"
+        },
+        {
+          "src": "images/0d35bd06f4b147fb.jpg",
+          "w": 500,
+          "h": 194,
+          "caption": "The arena of the 1911 Delhi Durbar",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Arena_and_the_Spectator%27s_mound_from_the_top_of_the_stand.jpg"
         }
       ],
       "sources": [
@@ -14322,7 +14471,7 @@
       ],
       "type": "Politics",
       "majorScore": 7,
-      "updatedAt": 1793478457
+      "updatedAt": 1793478985
     },
     {
       "id": "raja-harishchandra",
@@ -14692,6 +14841,15 @@
           "author": "Anugrah Abhinandan Granth (1946)",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr_Rajendra_Pd._DR.Anugrah_Narayan_Sinha.jpg"
+        },
+        {
+          "src": "images/ff2001d0b71a72db.jpg",
+          "w": 500,
+          "h": 361,
+          "caption": "An indigo factory in Bengal, 1867",
+          "author": "William Simpson",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indigo-factory_Bengal4.jpg"
         }
       ],
       "sources": [
@@ -14702,7 +14860,7 @@
       ],
       "type": "Politics",
       "majorScore": 7,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "montagu-declaration",
@@ -14760,6 +14918,14 @@
           "author": "Lafayette, Ltd. James Lafayette (1853–1923)",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_Sidney_Arthur_Taylor_Rowlatt_%28cropped%29.jpg"
+        },
+        {
+          "src": "images/f9c4d18315524c92.jpg",
+          "w": 250,
+          "h": 374,
+          "caption": "Saifuddin Kitchlew, who led protests against the Act in Punjab, 1919",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saif-ud-Din_Kitchlew_1919.jpg"
         }
       ],
       "sources": [
@@ -14770,7 +14936,7 @@
       ],
       "type": "Politics",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "jallianwala-bagh",
@@ -16690,7 +16856,16 @@
       "title": "The Hindu Code Bills",
       "short": "Parliament passed the Hindu Marriage Act, Succession Act and related laws, establishing monogamy, permitting divorce and giving daughters the right to inherit.",
       "detail": "Before independence Hindu marriage, inheritance and family matters were governed by ancient local custom and scripture, and women had almost no right to divorce or inherit. Law Minister Ambedkar drafted a unified Hindu Code, but it met fierce opposition from conservative members and President Prasad; when the bill stalled in 1951 Ambedkar resigned in protest. After the 1952 election Nehru split the code into separate laws, passing in 1955–56 the Hindu Marriage Act, Hindu Succession Act, Hindu Minority and Guardianship Act and Hindu Adoptions and Maintenance Act. They established monogamy, allowed divorce and inter-caste marriage, and gave daughters a share of their father's property alongside sons.",
-      "images": [],
+      "images": [
+        {
+          "src": "images/e5c1e7946e85d7bb.jpg",
+          "w": 500,
+          "h": 651,
+          "caption": "B. R. Ambedkar, the law minister who drove the reform",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr._Bhimrao_Ambedkar.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Hindu_code_bills",
@@ -16699,7 +16874,7 @@
       ],
       "type": "Society",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "states-reorganisation",
@@ -17899,6 +18074,15 @@
           "author": "Yorkspotter",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lords-Cricket-Ground-Pavilion-06-08-2017.jpg"
+        },
+        {
+          "src": "images/06d9a76756675ab4.jpg",
+          "w": 500,
+          "h": 375,
+          "caption": "Lord's Cricket Ground in London, where the final was played",
+          "author": "Simon Harriyott from Uckfield, England",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lord%27s_Cricket_Ground_%284644557952%29.jpg"
         }
       ],
       "sources": [
@@ -17909,7 +18093,7 @@
       ],
       "type": "Society",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "rakesh-sharma",
@@ -18423,6 +18607,15 @@
           "author": "BSEINDIA",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BSE_building_at_Dalal_Street.JPG"
+        },
+        {
+          "src": "images/b7caeffa98d4c5f8.jpg",
+          "w": 500,
+          "h": 375,
+          "caption": "The Air India Building on Marine Drive, one of the targets",
+          "author": "Indianhilbilly, Wikipedia user Nikkul",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marine_Drive%2C_Mumbai_%282007%29.jpg"
         }
       ],
       "sources": [
@@ -18433,7 +18626,7 @@
       ],
       "type": "Society",
       "majorScore": 4,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "pokhran-ii",

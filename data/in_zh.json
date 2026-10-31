@@ -1319,6 +1319,24 @@
           "author": "Daderot",
           "license": "CC0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cut_brick%2C_Indus_Valley_Tradition%2C_Harappan_Phase%2C_Chanhu_Daro%2C_Pakistan%2C_c._2500-1900_BC_-_Royal_Ontario_Museum_-_DSC09716.JPG"
+        },
+        {
+          "src": "images/97dedf86552988f1.png",
+          "w": 500,
+          "h": 407,
+          "caption": "成熟期印度河文明的主要遗址（昌胡达罗在信德）",
+          "author": "Avantiputra7",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png"
+        },
+        {
+          "src": "images/32d9122f882a01cd.jpg",
+          "w": 500,
+          "h": 375,
+          "caption": "同在信德的摩亨佐-达罗遗址",
+          "author": "Saqib Qayyum",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mohenjo-daro.jpg"
         }
       ],
       "sources": [
@@ -1329,7 +1347,7 @@
       ],
       "type": "经济",
       "majorScore": 4,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "ochre-pottery",
@@ -1897,6 +1915,14 @@
           "author": "The_Rig_Veda.jpg: неизвестен derivative work: Hunnjazal",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rigved-shlok_10.90.2.png"
+        },
+        {
+          "src": "images/0fe6009cd7c6d90e.jpg",
+          "w": 500,
+          "h": 697,
+          "caption": "《梨俱吠陀·原人歌》开头两颂，首次提到四种姓",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Rig_Veda.jpg"
         }
       ],
       "sources": [
@@ -1911,7 +1937,7 @@
       ],
       "type": "社会",
       "majorScore": 7,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "gurukula",
@@ -2639,6 +2665,24 @@
           "author": "Photo Dharma from Penang, Malaysia",
           "license": "CC BY 2.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nava_Jetavana_Temple_-_Shravasti_-_013_First_Council_at_Rajagaha_%289241729223%29.jpg"
+        },
+        {
+          "src": "images/3576a90133c21045.jpg",
+          "w": 500,
+          "h": 394,
+          "caption": "王舍城附近的七叶窟，传说中第一次结集的地方",
+          "author": "myself",
+          "license": "CC BY-SA 2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sattapanni.jpg"
+        },
+        {
+          "src": "images/4e3cc226a0069902.jpg",
+          "w": 500,
+          "h": 333,
+          "caption": "七叶窟洞口",
+          "author": "Gavesako",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saptaparni_cave.jpg"
         }
       ],
       "sources": [
@@ -2653,7 +2697,7 @@
       ],
       "type": "宗教",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "pataliputra",
@@ -4228,6 +4272,24 @@
           "author": "Westindischer Maler um 1400",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Westindischer_Maler_um_1400_001.jpg"
+        },
+        {
+          "src": "images/eb95b908286aa049.jpg",
+          "w": 330,
+          "h": 450,
+          "caption": "超日王与树上的僵尸鬼（现代画作）",
+          "author": "Harshadpd at English Wikipedia",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vetal.jpg"
+        },
+        {
+          "src": "images/d10ff1c1731fe22e.jpg",
+          "w": 500,
+          "h": 354,
+          "caption": "印度宪法手抄本中的超日王宫廷插图",
+          "author": "Abrsinha",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Constitution_Page104a_Rammanohar.jpg"
         }
       ],
       "sources": [
@@ -4242,7 +4304,7 @@
       ],
       "type": "文化",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "muziris",
@@ -8189,6 +8251,15 @@
           "author": "Marianne North (1830–1890)",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Painting_of_the_Fort_1857.jpg"
+        },
+        {
+          "src": "images/cc27e49c9f66a8bd.jpg",
+          "w": 500,
+          "h": 200,
+          "caption": "吉多尔堡水池中的帕德米尼宫（油画）",
+          "author": "Marianne North (1830–1890)",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oil_painting_of_Padmini%27s_palace_in_the_fort_in_the_midst_of_the_tank.jpg"
         }
       ],
       "sources": [
@@ -8199,7 +8270,7 @@
       ],
       "type": "战争",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "malik-kafur",
@@ -8605,6 +8676,15 @@
           "author": "1435-26 artist",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Timur_Celebrates_his_Conquest_of_Delhi_in_1398._Zafarnama_of_Ibrahim_Sultan%2C_Timurid_Shiraz%2C_1436.jpg"
+        },
+        {
+          "src": "images/c8ae1394d4b9534b.jpg",
+          "w": 500,
+          "h": 799,
+          "caption": "已知最早的帖木儿像（1405至1409年）",
+          "author": "1405-1409 artist",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Timur_seated_%28earliest_known_portrait%29%2C_Timurid_genealogy%2C_1405-1409%2C_Samarkand_%28TSMK%2C_H2152%29.jpg"
         }
       ],
       "sources": [
@@ -8615,7 +8695,7 @@
       ],
       "type": "战争",
       "majorScore": 7,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "madhava-sangamagrama",
@@ -10673,6 +10753,15 @@
           "author": "Johnson and Henderson",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banganga_Tank_and_Walkeshwar_Temple%2C_Bombay%2C_c._1855.jpg"
+        },
+        {
+          "src": "images/8b33f9e1f1a7187d.jpg",
+          "w": 500,
+          "h": 667,
+          "caption": "葡萄牙人1640年在班德拉修建的阿瓜达堡",
+          "author": "Nicholas (Nichalp)",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castella_de_Aguada_7.jpg"
         }
       ],
       "sources": [
@@ -10687,7 +10776,7 @@
       ],
       "type": "对外关系",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "saraighat",
@@ -13066,6 +13155,15 @@
           "author": "Nomu420",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ghalib_academy_15.JPG"
+        },
+        {
+          "src": "images/8d2ebfb8cc3ae17a.jpg",
+          "w": 500,
+          "h": 495,
+          "caption": "德里迦利布故居中的迦利布像",
+          "author": "Banswalhemant",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirza_Asadullah_Baig_Khan_ghalib.jpg"
         }
       ],
       "sources": [
@@ -13080,7 +13178,7 @@
       ],
       "type": "文化",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "indian-railways",
@@ -13207,6 +13305,15 @@
           "author": "Sir Bartle Frere (1815–1884), of the British East India Company, the Chief Commissioner of Sindh",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Scinde_Dawk_stamp.jpg"
+        },
+        {
+          "src": "images/b83af41f7787916c.jpg",
+          "w": 500,
+          "h": 667,
+          "caption": "西姆拉的英国殖民时期邮筒（约1856年）",
+          "author": "Utkarshraj Atmaram",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:British-era_letter_box_in_Shimla%2C_India.jpg"
         }
       ],
       "sources": [
@@ -13217,7 +13324,7 @@
       ],
       "type": "科技",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "santal-rebellion",
@@ -13734,6 +13841,14 @@
           "author": "Billjones94",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_old_ticket_of_the_Heritage_Monuments_of_India_by_ASI.jpg"
+        },
+        {
+          "src": "images/2042160a2a4225fe.jpg",
+          "w": 500,
+          "h": 474,
+          "caption": "考古调查局创始人亚历山大·坎宁安（右起第四）",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_Cunningham_of_the_ASI_01.jpg"
         }
       ],
       "sources": [
@@ -13748,7 +13863,7 @@
       ],
       "type": "科技",
       "majorScore": 5,
-      "updatedAt": 1793478457
+      "updatedAt": 1793478985
     },
     {
       "id": "high-courts",
@@ -14368,6 +14483,15 @@
           "caption": "首任主席W. C. 般纳吉",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:WCBonnerjee.jpg"
+        },
+        {
+          "src": "images/50f0ac074059830a.jpg",
+          "w": 500,
+          "h": 349,
+          "caption": "1946年国大党会议上的尼赫鲁与甘地",
+          "author": "Max Desfor (1913- 2018) for Associated Press",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nehru_Gandhi_AP_18050506381948_%28cropped%29.jpg"
         }
       ],
       "sources": [
@@ -14382,7 +14506,7 @@
       ],
       "type": "政治",
       "majorScore": 9,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "anandibai-joshi",
@@ -14928,6 +15052,14 @@
           "author": "DesiBoy101",
           "license": "CC BY 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gopal_Krishna_Gokhale%27s_house_in_the_campus_of_Gokhale_Institute_of_Politics_and_Economics%2C_Pune.jpg"
+        },
+        {
+          "src": "images/8aa18f61e48b648e.jpg",
+          "w": 500,
+          "h": 381,
+          "caption": "激进派领袖“拉尔-巴尔-帕尔”",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lal_Bal_Pal.jpg"
         }
       ],
       "sources": [
@@ -14938,7 +15070,7 @@
       ],
       "type": "政治",
       "majorScore": 5,
-      "updatedAt": 1793478457
+      "updatedAt": 1793478985
     },
     {
       "id": "tata-steel",
@@ -15042,6 +15174,15 @@
           "author": "Maull & Fox",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:LordMelgund1885.jpg"
+        },
+        {
+          "src": "images/aa642174731e50c1.jpg",
+          "w": 330,
+          "h": 496,
+          "caption": "印度事务大臣约翰·莫莱",
+          "author": "W. & D. Downey",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morley-John-Viscount.jpg"
         }
       ],
       "sources": [
@@ -15056,7 +15197,7 @@
       ],
       "type": "政治",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "iisc-founded",
@@ -15124,6 +15265,14 @@
           "caption": "1911年德里杜尔巴会场图",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delhi_Darbar%2C_12_Dec_1911.jpg"
+        },
+        {
+          "src": "images/0d35bd06f4b147fb.jpg",
+          "w": 500,
+          "h": 194,
+          "caption": "1911年德里杜尔巴会场",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Arena_and_the_Spectator%27s_mound_from_the_top_of_the_stand.jpg"
         }
       ],
       "sources": [
@@ -15138,7 +15287,7 @@
       ],
       "type": "政治",
       "majorScore": 7,
-      "updatedAt": 1793478457
+      "updatedAt": 1793478985
     },
     {
       "id": "raja-harishchandra",
@@ -15524,6 +15673,15 @@
           "author": "Anugrah Abhinandan Granth (1946)",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr_Rajendra_Pd._DR.Anugrah_Narayan_Sinha.jpg"
+        },
+        {
+          "src": "images/ff2001d0b71a72db.jpg",
+          "w": 500,
+          "h": 361,
+          "caption": "英国人在孟加拉开办的靛蓝染料作坊（1867年）",
+          "author": "William Simpson",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indigo-factory_Bengal4.jpg"
         }
       ],
       "sources": [
@@ -15534,7 +15692,7 @@
       ],
       "type": "政治",
       "majorScore": 7,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "montagu-declaration",
@@ -15596,6 +15754,14 @@
           "author": "Lafayette, Ltd. James Lafayette (1853–1923)",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_Sidney_Arthur_Taylor_Rowlatt_%28cropped%29.jpg"
+        },
+        {
+          "src": "images/f9c4d18315524c92.jpg",
+          "w": 250,
+          "h": 374,
+          "caption": "领导旁遮普反对罗拉特法的基奇卢（1919年）",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saif-ud-Din_Kitchlew_1919.jpg"
         }
       ],
       "sources": [
@@ -15610,7 +15776,7 @@
       ],
       "type": "政治",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "jallianwala-bagh",
@@ -17662,7 +17828,16 @@
       "title": "印度教法典改革",
       "short": "议会通过印度教婚姻法、继承法等一系列法律，确立一夫一妻制、允许离婚，并赋予女儿继承财产的权利。",
       "detail": "独立前，印度教徒的婚姻、继承等家庭事务按照各地的古老习惯和经典处理，妇女几乎没有离婚和继承的权利。法律部长安贝德卡尔起草了统一的印度教法典，但遭到保守派议员和总统普拉萨德的强烈反对，1951年法案搁浅，安贝德卡尔愤而辞职。1952年大选后，尼赫鲁把法典拆分成几部法律，1955年至1956年先后通过《印度教婚姻法》《印度教继承法》《印度教少数和监护法》《印度教收养和赡养法》，规定一夫一妻制，允许离婚和不同种姓之间通婚，女儿可以与儿子一同继承父亲的财产。",
-      "images": [],
+      "images": [
+        {
+          "src": "images/e5c1e7946e85d7bb.jpg",
+          "w": 500,
+          "h": 651,
+          "caption": "推动法典改革的司法部长安贝德卡尔",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr._Bhimrao_Ambedkar.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Hindu_code_bills",
@@ -17671,7 +17846,7 @@
       ],
       "type": "社会",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "states-reorganisation",
@@ -18955,6 +19130,15 @@
           "author": "Yorkspotter",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lords-Cricket-Ground-Pavilion-06-08-2017.jpg"
+        },
+        {
+          "src": "images/06d9a76756675ab4.jpg",
+          "w": 500,
+          "h": 375,
+          "caption": "举行决赛的伦敦罗德板球场",
+          "author": "Simon Harriyott from Uckfield, England",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lord%27s_Cricket_Ground_%284644557952%29.jpg"
         }
       ],
       "sources": [
@@ -18965,7 +19149,7 @@
       ],
       "type": "社会",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "rakesh-sharma",
@@ -19515,6 +19699,15 @@
           "author": "BSEINDIA",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BSE_building_at_Dalal_Street.JPG"
+        },
+        {
+          "src": "images/b7caeffa98d4c5f8.jpg",
+          "w": 500,
+          "h": 375,
+          "caption": "海滨大道上的印度航空大楼，爆炸地点之一",
+          "author": "Indianhilbilly, Wikipedia user Nikkul",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marine_Drive%2C_Mumbai_%282007%29.jpg"
         }
       ],
       "sources": [
@@ -19529,7 +19722,7 @@
       ],
       "type": "社会",
       "majorScore": 4,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478985
     },
     {
       "id": "pokhran-ii",
