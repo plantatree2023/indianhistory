@@ -23,6 +23,6 @@
     "@playwright/test": "1.56.1"
   },
   "dependencies": {
-    "history-common": "github:plantatree2023/history-common#0eeea94c181c9a7f7932411fa9c9840255420eae"
+    "history-common": "github:plantatree2023/history-common#e272224955efcd3b40d1cf450d30dd27e3dae7f4"
   }
 }
