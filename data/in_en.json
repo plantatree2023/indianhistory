@@ -3466,6 +3466,15 @@
           "author": "Maisey, Frederick Charles (1825-1892)",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:General_view_of_the_Stupas_at_Sanchi.jpg"
+        },
+        {
+          "src": "images/dd43050e5af10e33.jpg",
+          "w": 500,
+          "h": 296,
+          "caption": "Sanchi Stupa No. 2",
+          "author": "Kevin Standage (kevinstandage1@googlemail.com) INDIAN TRAVEL PHOTOGRAPHY",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sanchi_Stupa_No2.jpg"
         }
       ],
       "sources": [
@@ -3476,7 +3485,7 @@
       ],
       "type": "Religion",
       "majorScore": 8,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "barabar-caves",
@@ -5191,6 +5200,15 @@
           "caption": "The numerals in the Spanish Codex Vigilanus of 976, the first Hindu-Arabic digits in Europe",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Codex_Vigilanus_Primeros_Numeros_Arabigos.jpg"
+        },
+        {
+          "src": "images/a961f0c3d9bbfb50.jpg",
+          "w": 500,
+          "h": 371,
+          "caption": "Arabic numerals and counting board in a German arithmetic book, 1514",
+          "author": "Köbel and Böschenteyn",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:K%C3%B6bel_B%C3%B6schenteyn_1514.jpg"
         }
       ],
       "sources": [
@@ -5201,7 +5219,7 @@
       ],
       "type": "Science",
       "majorScore": 8,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "deogarh",
@@ -9498,6 +9516,15 @@
           "caption": "The Company ship Red Dragon, which fought the Portuguese at Swally in 1612",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reddragonship.jpg"
+        },
+        {
+          "src": "images/42472a3b4b507e5b.jpg",
+          "w": 250,
+          "h": 395,
+          "caption": "\"The English ask pardon of Aurangzeb\", a French illustration",
+          "author": "Guillaume Thomas François Raynal (1713–1796)",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_English_ask_pardon_of_Aurangzeb.jpg"
         }
       ],
       "sources": [
@@ -9508,7 +9535,7 @@
       ],
       "type": "Economy",
       "majorScore": 8,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "guru-arjan",
@@ -9599,6 +9626,15 @@
       "detail": "In 1612 East India Company ships defeated a Portuguese fleet in the battle of Swally near Surat, winning the Mughals’ respect. In 1615 King James I sent the diplomat Sir Thomas Roe to India as his official ambassador, and he followed Jahangir’s court around Ajmer, Mandu and elsewhere for nearly four years. Roe’s journal describes the splendour of the Mughal court, the emperor’s tastes and its ceremonies, and he found that the English gifts were nothing beside the court’s wealth. He eventually obtained an imperial order allowing the English to trade and live at Surat and other ports. He advised the company not to fight wars on land as the Portuguese had, but to concentrate on trade by sea.",
       "images": [
         {
+          "src": "images/d3c49dd3d4fe92bb.jpg",
+          "w": 330,
+          "h": 402,
+          "caption": "Portrait of Sir Thomas Roe",
+          "author": "After Michiel Jansz. van Mierevelt (1566–1641)",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:SirThomasRoe.jpg"
+        },
+        {
           "src": "images/979709a15f32c8a5.jpg",
           "w": 500,
           "h": 699,
@@ -9625,7 +9661,7 @@
       ],
       "type": "Foreign relations",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "shalimar-bagh",
@@ -10181,6 +10217,15 @@
           "author": "Karthik Easvur",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pondicherry-Rock_beach_aerial_view.jpg"
+        },
+        {
+          "src": "images/b5678bd293c8ca67.jpg",
+          "w": 500,
+          "h": 500,
+          "caption": "Aayi Mandapam in Pondicherry",
+          "author": "Suryathecreator",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aayi_mandapam_pondicherry.jpg"
         }
       ],
       "sources": [
@@ -10191,7 +10236,7 @@
       ],
       "type": "Foreign relations",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "guru-tegh-bahadur",
@@ -10311,6 +10356,15 @@
           "author": "The Gentleman's Magazine, and Historical Chronicle, Volume 94, Part 1 - E. Cave, 1824",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sketch_if_Job_Charnock%27s_Cemetery%2C_made_before_1742_%28p.196%2C_March_1824%29.jpg"
+        },
+        {
+          "src": "images/88cea1c3d042ecce.jpg",
+          "w": 500,
+          "h": 667,
+          "caption": "Job Charnock's mausoleum at St John's Church, Calcutta",
+          "author": "Grentidez",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Job_Charnock%27s_mausoleum.JPG"
         }
       ],
       "sources": [
@@ -10321,7 +10375,7 @@
       ],
       "type": "Foreign relations",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "khalsa",
@@ -10473,6 +10527,14 @@
       "detail": "Murshid Quli Khan was a revenue official appointed by Aurangzeb in Bengal and was famed for his financial skill; he reorganised the collection of land revenue and sent large sums to Delhi every year, winning the emperor’s confidence. He moved the capital of Bengal from Dhaka to a town on the Ganges that he named Murshidabad after himself. In 1717 the emperor Farrukhsiyar formally appointed him governor of Bengal, and he became the first Nawab of Bengal, a hereditary post; though nominally loyal to Delhi, he was in practice independent. Under his rule Bengal’s textile industry and silk trade flourished, the European East India companies all kept factories there, and Bengal became the richest region of India.",
       "images": [
         {
+          "src": "images/1a7047adb3931e2e.png",
+          "w": 429,
+          "h": 640,
+          "caption": "Murshid Quli Khan holding a durbar during fireworks, c. 1710",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nawab_holding_a_durbar%2C_a_historical_Mughal_court%2C_during_a_fireworks_display.png"
+        },
+        {
           "src": "images/fb4b77b83aa963a2.jpg",
           "w": 500,
           "h": 667,
@@ -10499,7 +10561,7 @@
       ],
       "type": "Politics",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "baji-rao",
@@ -10616,6 +10678,15 @@
           "author": "Rialfver",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jantar_Mantar%2C_Jaipur_India.jpg"
+        },
+        {
+          "src": "images/ea198323dc75befc.jpg",
+          "w": 500,
+          "h": 333,
+          "caption": "The Brihat Samrat Yantra sundial, Jaipur",
+          "author": "Arian Zwegers from Brussels, Belgium",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaipur%2C_Jantar_Mantar%2C_Brihat_Samrat_Yantra_%289713595658%29.jpg"
         }
       ],
       "sources": [
@@ -10626,7 +10697,7 @@
       ],
       "type": "Science",
       "majorScore": 7,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "jaipur-founded",
@@ -10747,6 +10818,14 @@
           "author": "SAJEEVJINO",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Victory_Pillar_Colachal.jpg"
+        },
+        {
+          "src": "images/5e5acc9b86457646.jpg",
+          "w": 330,
+          "h": 447,
+          "caption": "Marthanda Varma, king of Travancore",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anizham_Thirunal_Marthanda_Varma.jpg"
         }
       ],
       "sources": [
@@ -10757,7 +10836,7 @@
       ],
       "type": "War",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "carnatic-wars",
@@ -10784,6 +10863,14 @@
           "author": "Artiste inconnu",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardement_de_Pondichery_en_1748_par_la_flotte_anglaise.jpg"
+        },
+        {
+          "src": "images/0fb0840338d2f5f7.png",
+          "w": 500,
+          "h": 616,
+          "caption": "French India at its height, 1741–1754",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:French_India_1741-1754.png"
         }
       ],
       "sources": [
@@ -10794,7 +10881,7 @@
       ],
       "type": "War",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "ahmad-shah-durrani",
@@ -11127,6 +11214,14 @@
           "caption": "Sadashivrao Bhau, the Maratha commander",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sadashivrao_bhau.jpg"
+        },
+        {
+          "src": "images/068adff183f22c00.jpg",
+          "w": 500,
+          "h": 782,
+          "caption": "Plan of the Battle of Panipat, 1761",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plan_of_the_Battle_of_Paniput%2C_1761.jpg"
         }
       ],
       "sources": [
@@ -11137,7 +11232,7 @@
       ],
       "type": "War",
       "majorScore": 8,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "buxar",
@@ -11255,6 +11350,15 @@
           "author": "Johan Zoffany",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Warren_Hastings_with_his_Wife_Marian_in_their_Garden_at%2C_Alipore.jpg"
+        },
+        {
+          "src": "images/750ff06f241c7133.jpg",
+          "w": 500,
+          "h": 293,
+          "caption": "The trial of Warren Hastings in Westminster Hall, 1788",
+          "author": "Robert Pollard (1755–)",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_trial_of_Warren_Hastings%2C_1788.jpg"
         }
       ],
       "sources": [
@@ -11265,7 +11369,7 @@
       ],
       "type": "Politics",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "hyder-ali",
@@ -11292,6 +11396,14 @@
           "author": "Charles Joppen",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:HyderAliDominions1780max.jpg"
+        },
+        {
+          "src": "images/e8648a6676a7207c.jpg",
+          "w": 500,
+          "h": 346,
+          "caption": "Lal Bagh gardens in Bangalore, laid out by Hyder Ali (1794 etching)",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lal_bagh_gardens1794.jpg"
         }
       ],
       "sources": [
@@ -11302,7 +11414,7 @@
       ],
       "type": "War",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "asiatic-society",
@@ -11330,6 +11442,15 @@
           "caption": "The Asiatic Society building in 1828",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Asiatic_Society_Building%2C_1828.tif"
+        },
+        {
+          "src": "images/5140bb313cf661f4.jpg",
+          "w": 500,
+          "h": 201,
+          "caption": "Ashoka's Bairat inscription, kept at the Asiatic Society",
+          "author": "Asiatic Society",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhabru_inscription.jpg"
         }
       ],
       "sources": [
@@ -11340,7 +11461,7 @@
       ],
       "type": "Culture",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "permanent-settlement",
@@ -11396,6 +11517,14 @@
           "author": "Royal Collection Trust",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:War_coat_of_Tipu_Sultan.jpg"
+        },
+        {
+          "src": "images/55b5c334318f408d.jpg",
+          "w": 330,
+          "h": 219,
+          "caption": "Mural of the Battle of Pollilur in Tipu's summer palace",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battle_of_pollilur.jpg"
         }
       ],
       "sources": [
@@ -11406,7 +11535,7 @@
       ],
       "type": "War",
       "majorScore": 8,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "ranjit-singh",
@@ -11574,6 +11703,15 @@
           "author": "Chandrachoodan Gopalakrishnan from Chennai, India",
           "license": "CC BY-SA 2.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vellorefort.jpg"
+        },
+        {
+          "src": "images/a4145431dbef7e58.jpg",
+          "w": 500,
+          "h": 302,
+          "caption": "European burying ground at Vellore, 1871",
+          "author": "Norman MacLeod",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:European_Burying-Ground_at_Vellore_%28MacLeod%2C_p.142%2C_1871%29_-_Copy.jpg"
         }
       ],
       "sources": [
@@ -11584,7 +11722,7 @@
       ],
       "type": "War",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "hindu-college",
@@ -11738,6 +11876,15 @@
           "author": "Arpingstone",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Epitaph_of_Raja_Rammohun_Roy_in_Arnos_Vale_Cemetery%2C_Bristol%2C_England.jpg"
+        },
+        {
+          "src": "images/50718c9c6d6ef222.jpg",
+          "w": 500,
+          "h": 359,
+          "caption": "Tomb of Ram Mohan Roy in Bristol, England",
+          "author": "Arpingstone",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tomb_of_Raja_Rammohun_Roy_in_Arnos_Vale_Cemetery%2C_Bristol%2C_England.jpg"
         }
       ],
       "sources": [
@@ -11748,7 +11895,7 @@
       ],
       "type": "Religion",
       "majorScore": 7,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "sati-abolition",
@@ -11822,6 +11969,14 @@
           "author": "Originally Aaron Arrowsmith, since updated",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:India_map_thuggee.png"
+        },
+        {
+          "src": "images/c1ba0b44b84ff20d.jpg",
+          "w": 500,
+          "h": 607,
+          "caption": "William Henry Sleeman, who led the campaign against thuggee",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:William-Henry-Sleeman.jpg"
         }
       ],
       "sources": [
@@ -11832,7 +11987,7 @@
       ],
       "type": "Society",
       "majorScore": 4,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "english-education-act",
@@ -11850,6 +12005,15 @@
           "author": "Antoine Claudet (1797–1867)",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Babington_Macaulay2.jpg"
+        },
+        {
+          "src": "images/b216f3f200904894.jpg",
+          "w": 500,
+          "h": 418,
+          "caption": "Thomas Babington Macaulay, 1853",
+          "author": "Edward Matthew Ward (1816–1879)",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edward_Matthew_Ward_%281816-1879%29_-_Thomas_Babington_Macaulay%2C_Baron_Macaulay_-_NPG_4882_-_National_Portrait_Gallery.jpg"
         }
       ],
       "sources": [
@@ -11860,7 +12024,7 @@
       ],
       "type": "Culture",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "calcutta-medical-college",
@@ -11888,6 +12052,15 @@
           "author": "Pinakpani",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_building_of_Calcutta_Medical_College_and_Hospital_03.jpg"
+        },
+        {
+          "src": "images/0f3925dda91ffd0a.jpg",
+          "w": 500,
+          "h": 375,
+          "caption": "Administrative block of Calcutta Medical College",
+          "author": "Dwaipayanc",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:CMC_administrative.JPG"
         }
       ],
       "sources": [
@@ -11898,7 +12071,7 @@
       ],
       "type": "Science",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "indenture",
@@ -12016,6 +12189,14 @@
           "author": "William Daniell (1769–1837)",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Canton_factories_2.jpg"
+        },
+        {
+          "src": "images/45a3a535197a41dd.jpg",
+          "w": 500,
+          "h": 329,
+          "caption": "Chinese opium smokers, gouache on rice paper",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Two_poor_Chinese_opium_smokers._Gouache_painting_on_rice-pap_Wellcome_V0019165.jpg"
         }
       ],
       "sources": [
@@ -12026,7 +12207,7 @@
       ],
       "type": "Foreign relations",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "savitribai-phule",
@@ -12053,6 +12234,15 @@
           "author": "Wander-earth",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jotirao_Phule_Savitribai_Phule_Phulewada_Pune.jpg"
+        },
+        {
+          "src": "images/455bb793dc6bec26.jpg",
+          "w": 500,
+          "h": 333,
+          "caption": "Bust of Savitribai Phule in Pune",
+          "author": "Chawla.nishant",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sadhvi_Savitri_Phule.JPG"
         }
       ],
       "sources": [
@@ -12063,7 +12253,7 @@
       ],
       "type": "Society",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "doctrine-of-lapse",
@@ -12081,6 +12271,23 @@
           "author": "George Richmond (1809–1896)",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dalhousie.jpg"
+        },
+        {
+          "src": "images/a7b22bf7a9740c0b.jpg",
+          "w": 500,
+          "h": 269,
+          "caption": "The necropolis of the Rajas of Jhansi, 1872",
+          "author": "Photograph: Louis Rousselet (1845–1929)",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:H._Catenacci%2C_La_n%C3%A9cropole_des_Rajahs_de_Jhansie_%28Le_Tour_du_monde%2C_1872%29.jpg"
+        },
+        {
+          "src": "images/9f846f314deda1d3.jpg",
+          "w": 250,
+          "h": 368,
+          "caption": "Rani Lakshmibai of Jhansi on horseback",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rani_of_jhansi.jpg"
         }
       ],
       "sources": [
@@ -12091,7 +12298,7 @@
       ],
       "type": "Politics",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "anglo-sikh-war",
@@ -12184,7 +12391,33 @@
       "title": "India’s First Passenger Train",
       "short": "India’s first passenger train ran 34 kilometres from Bombay to Thane; railways then spread rapidly and transformed India’s economy and society.",
       "detail": "At 3.35 on the afternoon of 16 April 1853 a train hauled by three steam locomotives and carrying about four hundred passengers left Bori Bunder in Bombay to a salute of twenty-one guns and reached Thane, 34 kilometres away, about an hour later. It was India’s first passenger railway, built by the Great Indian Peninsula Railway. Governor-General Dalhousie pushed railway building hard, seeing it as a way to move troops quickly, carry raw materials such as cotton and sell British manufactures. By 1900 India had more than 40,000 kilometres of track, one of the largest networks in the world. The railways bound the country together, though they also made it easier to export grain in times of famine. Indian Railways today is one of the world’s largest employers.",
-      "images": [],
+      "images": [
+        {
+          "src": "images/b84c61bf382d3062.jpg",
+          "w": 500,
+          "h": 1194,
+          "caption": "An early GIPR timetable in the Bombay Times, 1853",
+          "author": "Historical Trains",
+          "license": "CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Early_GIPR_Railway_Timetable%2C_Bombay_Times_8-4-1853.jpg"
+        },
+        {
+          "src": "images/fb686abb626449b5.jpg",
+          "w": 500,
+          "h": 380,
+          "caption": "Building the Bombay–Poona railway in the 1860s",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombay-Poona_railway_construction_in_the_1860s.jpg"
+        },
+        {
+          "src": "images/ffd8f2e817fd862c.jpg",
+          "w": 500,
+          "h": 126,
+          "caption": "Ghat incline engines of the GIP Railway, 1856",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ghat_Engine_GIP_Railway_1856.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Rail_transport_in_India%23History",
@@ -12193,7 +12426,7 @@
       ],
       "type": "Economy",
       "majorScore": 8,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "ganges-canal",
@@ -12432,6 +12665,15 @@
           "author": "Theodore Julius Hoffmann",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Senate_Hall%2C_University_of_Calcutta.png"
+        },
+        {
+          "src": "images/24489c64e9bf5d46.jpg",
+          "w": 500,
+          "h": 344,
+          "caption": "The University of Calcutta on College Street",
+          "author": "रोहित साव27",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:University_of_Calcutta_outside.jpg"
         }
       ],
       "sources": [
@@ -12442,7 +12684,7 @@
       ],
       "type": "Culture",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "rebellion-1857",
@@ -12470,6 +12712,14 @@
           "author": "Edinburgh Geographical Institute.",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:India1837to1857.jpg"
+        },
+        {
+          "src": "images/10f72856360d773a.jpg",
+          "w": 500,
+          "h": 575,
+          "caption": "Sepoys of the East India Company, 1820s",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Two_Seapoy_Officers%3B_A_Private_Seapoy.jpg"
         }
       ],
       "sources": [
@@ -12484,7 +12734,7 @@
         "from": "Company Rule",
         "to": "British Raj"
       },
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "siege-lucknow",
@@ -12672,6 +12922,15 @@
           "author": "John Partridge (died 1872)",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Babington_Macaulay%2C_Baron_Macaulay_by_John_Partridge.jpg"
+        },
+        {
+          "src": "images/f40e84910ab63869.jpg",
+          "w": 500,
+          "h": 619,
+          "caption": "Thomas Babington Macaulay, who drafted the code",
+          "author": "Francis Grant (1803–1878)",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Francis_Grant_%281803-1878%29_-_Thomas_Babington_Macaulay_%281800%E2%80%931859%29%2C_Baron_Macaulay%2C_Fellow%2C_Historian%2C_Essayist%2C_Poet_and_MP_-_TC_Oils_P_108_-_Trinity_College.jpg"
         }
       ],
       "sources": [
@@ -12682,7 +12941,7 @@
       ],
       "type": "Politics",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "tagore-born",
@@ -12711,6 +12970,14 @@
           "author": "Tanmoy Bhaduri",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panchise_Baisakh_Celebration_at_Jorasanko_Thakur_Bari.jpg"
+        },
+        {
+          "src": "images/2dcf96a636744571.jpg",
+          "w": 500,
+          "h": 375,
+          "caption": "Jorasanko Thakur Bari, Tagore's birthplace",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jorasanko_Thakur_Bari.jpg"
         }
       ],
       "sources": [
@@ -12721,7 +12988,7 @@
       ],
       "type": "Culture",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "asi-founded",
@@ -12738,6 +13005,15 @@
           "caption": "Alexander Cunningham, founder of the Archaeological Survey of India",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_Cunningham_of_the_ASI_02.jpg"
+        },
+        {
+          "src": "images/3bb6816f76031b58.jpg",
+          "w": 500,
+          "h": 359,
+          "caption": "An old monument ticket issued by the Archaeological Survey of India",
+          "author": "Billjones94",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_old_ticket_of_the_Heritage_Monuments_of_India_by_ASI.jpg"
         }
       ],
       "sources": [
@@ -12748,7 +13024,7 @@
       ],
       "type": "Science",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "high-courts",
@@ -12905,6 +13181,15 @@
           "author": "Rohit Agarwal",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_main_memorial_near_the_house.jpg"
+        },
+        {
+          "src": "images/49b36d600d8a718e.jpg",
+          "w": 500,
+          "h": 667,
+          "caption": "Gandhi's birthplace in Porbandar",
+          "author": "Samadolfo",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birth_Place_of_Gandhi.jpg"
         }
       ],
       "sources": [
@@ -12915,7 +13200,7 @@
       ],
       "type": "Politics",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "first-census",
@@ -13066,6 +13351,15 @@
           "author": "Hhkhan",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bab-e-Sayyad.jpg"
+        },
+        {
+          "src": "images/c4168d93811d59ae.jpg",
+          "w": 500,
+          "h": 667,
+          "caption": "Strachey Hall, Aligarh Muslim University",
+          "author": "Aamirr13",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strachey_hall_-_2026AMU_Campus%2C_Aligarh_07.jpg"
         }
       ],
       "sources": [
@@ -13076,7 +13370,7 @@
       ],
       "type": "Culture",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "great-famine-1876",
@@ -13187,6 +13481,15 @@
           "author": "Chirag85",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:DHR_Route_Map.jpg"
+        },
+        {
+          "src": "images/4aea1f01d9ff6c51.jpg",
+          "w": 330,
+          "h": 254,
+          "caption": "The Darjeeling Railway in 1895",
+          "author": "Jackson, William Henry",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Darjeeling_Railway_1895.jpg"
         }
       ],
       "sources": [
@@ -13197,7 +13500,7 @@
       ],
       "type": "Economy",
       "majorScore": 4,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "vande-mataram",
@@ -13223,6 +13526,14 @@
           "caption": "The author, Bankim Chandra Chattopadhyay",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bankim_chandra_chattopadhyay.jpg"
+        },
+        {
+          "src": "images/31eeeb3ce09455a1.jpg",
+          "w": 500,
+          "h": 281,
+          "caption": "A painting of Vande Mataram published in 1923",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_rare_painting_of_our_national_song%2C_Vande_Mataram%2C_published_in_1923.jpg"
         }
       ],
       "sources": [
@@ -13233,7 +13544,7 @@
       ],
       "type": "Culture",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "ilbert-bill",
@@ -13433,6 +13744,15 @@
           "author": "The Strand Magazine",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Strand_Magazine_vol._4%2C_no._24%2C_pg._587_-_Age_41.png"
+        },
+        {
+          "src": "images/a46341b863065087.jpg",
+          "w": 330,
+          "h": 461,
+          "caption": "Dadabhai Naoroji in 1892",
+          "author": "R.M. Richardson & Co",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dadabhai_Naoroji%2C_1892.jpg"
         }
       ],
       "sources": [
@@ -13443,7 +13763,7 @@
       ],
       "type": "Politics",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "vivekananda-chicago",
@@ -13471,6 +13791,15 @@
           "author": "Biswarup Ganguly",
           "license": "CC BY 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Swami_Vivekananda%27s_Ancestral_House_%26_Cultural_Centre_Door_-_Kolkata_2011-10-22_6073.JPG"
+        },
+        {
+          "src": "images/183113669fceac32.jpg",
+          "w": 500,
+          "h": 235,
+          "caption": "Swami Vivekananda's ancestral house in Kolkata",
+          "author": "Billjones94",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramakrishna_Mission_Swami_Vivekananda%27s_Ancestral_House_and_Cultural_Centre_%28birthplace_of_Swami_Vivekananda%3B_now_a_museum_and_cultural_centre%2C_inaugurated_by_the_President_of_India_A._P._J._Abdul_Kalam%29_at_Gourmohan_Mukherjee_Street.jpg"
         }
       ],
       "sources": [
@@ -13481,7 +13810,7 @@
       ],
       "type": "Religion",
       "majorScore": 7,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "gandhi-pietermaritzburg",
@@ -13492,7 +13821,24 @@
       "title": "Gandhi thrown off the train",
       "short": "Working as a lawyer in South Africa, Gandhi was thrown off a first-class carriage because of his colour; the humiliation set him on a struggle in which he developed non-violent resistance.",
       "detail": "In 1893 Gandhi went to South Africa to handle a lawsuit for an Indian firm. On 7 June, travelling to Pretoria on a first-class ticket, he was forced off the train at Pietermaritzburg when a white passenger objected, and spent a cold night in the waiting room. He decided to stay and fight for the rights of Indians there, founding the Natal Indian Congress in 1894, a newspaper and communal farms. When the Transvaal required Indians to register and carry passes in 1906, he organised mass civil disobedience that he called satyagraha, 'holding firmly to truth', or non-violent resistance. He spent 21 years in South Africa, returning to India in 1914 after an agreement with the government.",
-      "images": [],
+      "images": [
+        {
+          "src": "images/7bdb912bfc72e642.jpg",
+          "w": 500,
+          "h": 381,
+          "caption": "Pietermaritzburg railway station, 1898",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:PMB_1898_Railway_Station.jpg"
+        },
+        {
+          "src": "images/a92208c853d8ece8.jpg",
+          "w": 500,
+          "h": 440,
+          "caption": "Inside Pietermaritzburg railway station, 1898",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:PMB_1898_Interior_of_Railway_Station.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi%23Civil_rights_activist_in_South_Africa_(1893%E2%80%931914)",
@@ -13501,7 +13847,7 @@
       ],
       "type": "Politics",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "tilak-ganesh",
@@ -13527,6 +13873,15 @@
           "author": "Viraat Kothare",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:House_exterior_view.JPG"
+        },
+        {
+          "src": "images/345b82c9820434c4.jpg",
+          "w": 500,
+          "h": 387,
+          "caption": "Lal-Bal-Pal: Lajpat Rai, Tilak and Bipin Chandra Pal",
+          "author": "Maharashtra Digital Archives",
+          "license": "CC BY-SA 2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_three_pillars_of_Swarajya_-_Lala_Lajpat_Rai%2C_Bal_Gangadhar_Tilak_%26_Bipin_Chandra_Pal_or_Lal-Bal-Pal.jpg"
         }
       ],
       "sources": [
@@ -13537,7 +13892,7 @@
       ],
       "type": "Politics",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "jc-bose",
@@ -13608,6 +13963,14 @@
           "caption": "Waldemar Haffkine, who developed a plague vaccine in Bombay",
           "license": "CC BY 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waldemar_Haffkine_2.jpg"
+        },
+        {
+          "src": "images/c44f7ada7dd96691.jpg",
+          "w": 500,
+          "h": 383,
+          "caption": "Haffkine inoculating in Calcutta, 1894",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anti-cholera_inoculation%2C_Calcutta%2C_1894_Wellcome_L0037329.jpg"
         }
       ],
       "sources": [
@@ -13618,7 +13981,7 @@
       ],
       "type": "Society",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "curzon-viceroy",
@@ -13636,6 +13999,14 @@
           "author": "George Grantham Bain Collection (Library of Congress)",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:George_Curzon2.jpg"
+        },
+        {
+          "src": "images/8b02177d7cfeed54.jpg",
+          "w": 500,
+          "h": 281,
+          "caption": "Lord and Lady Curzon touring the Persian Gulf, 1903",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lord_and_Lady_Curzon_and_staff_on_tour_of_Persian_Gulf_1903.jpg"
         }
       ],
       "sources": [
@@ -13646,7 +14017,7 @@
       ],
       "type": "Politics",
       "majorScore": 4,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "partition-bengal",
@@ -13712,6 +14083,14 @@
           "caption": "Delegates at the 1906 conference in Dhaka",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:All_India_Muslim_league_conference_1906_attendees_in_Dhaka.jpg"
+        },
+        {
+          "src": "images/ebd706da7ebda005.jpg",
+          "w": 330,
+          "h": 200,
+          "caption": "Muslim League Working Committee at Lahore, 1940",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:All_India_Muslim_League_Working_Committee_Lahore_1940.jpg"
         }
       ],
       "sources": [
@@ -13722,7 +14101,7 @@
       ],
       "type": "Politics",
       "majorScore": 7,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "surat-split",
@@ -13740,6 +14119,15 @@
           "caption": "Gopal Krishna Gokhale, leader of the moderates",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:GKGokhale.jpg"
+        },
+        {
+          "src": "images/063ac3e113fece39.jpg",
+          "w": 500,
+          "h": 375,
+          "caption": "Gokhale's former house in Pune",
+          "author": "DesiBoy101",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gopal_Krishna_Gokhale%27s_house_in_the_campus_of_Gokhale_Institute_of_Politics_and_Economics%2C_Pune.jpg"
         }
       ],
       "sources": [
@@ -13750,7 +14138,7 @@
       ],
       "type": "Politics",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "tata-steel",
@@ -13916,6 +14304,14 @@
           "caption": "The Delhi Durbar of 1911, where George V announced the move of the capital",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delhi_Durbar%2C_1911.jpg"
+        },
+        {
+          "src": "images/bc354bde6fa6e103.jpg",
+          "w": 500,
+          "h": 565,
+          "caption": "Plan of the Delhi Durbar arena, 1911",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delhi_Darbar%2C_12_Dec_1911.jpg"
         }
       ],
       "sources": [
@@ -13926,7 +14322,7 @@
       ],
       "type": "Politics",
       "majorScore": 7,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "raja-harishchandra",
@@ -13994,6 +14390,23 @@
           "author": "Georges Chevalier (1882–1967)",
           "license": "CC BY 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1926_Rabindrath_Tagore.jpg"
+        },
+        {
+          "src": "images/70df59cc608afdb6.jpg",
+          "w": 500,
+          "h": 305,
+          "caption": "Tagore's house at Shilaidaha",
+          "author": "Alinur Rahman Evan",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%A6%B0%E0%A6%AC%E0%A7%80%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%95%E0%A7%81%E0%A6%A0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF_%E0%A6%B6%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A6%E0%A6%B9_%E0%A6%95%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.jpg"
+        },
+        {
+          "src": "images/05ac44a2c75b6ca8.jpg",
+          "w": 500,
+          "h": 260,
+          "caption": "The Tagore family boat Padma",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tagore_family_boat_Padma.jpg"
         }
       ],
       "sources": [
@@ -14004,7 +14417,7 @@
       ],
       "type": "Culture",
       "majorScore": 8,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "ghadar-party",
@@ -14074,6 +14487,14 @@
           "author": "Adiswini at English Wikipedia",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramanujanhome.jpg"
+        },
+        {
+          "src": "images/be436c7dcd7c4099.png",
+          "w": 250,
+          "h": 471,
+          "caption": "Srinivasa Ramanujan",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramanujan_seated_alone.png"
         }
       ],
       "sources": [
@@ -14084,7 +14505,7 @@
       ],
       "type": "Science",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "komagata-maru",
@@ -15530,6 +15951,15 @@
           "author": "John George Bartholomew",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muslim_percent_1909.jpg"
+        },
+        {
+          "src": "images/ae7efd4761fce9da.jpg",
+          "w": 500,
+          "h": 408,
+          "caption": "British India (pink) and the princely states (yellow) before partition",
+          "author": "Edinburgh Geographical Institute; J. G. Bartholomew and Sons.",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg"
         }
       ],
       "sources": [
@@ -15540,7 +15970,7 @@
       ],
       "type": "Politics",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "independence",
@@ -16578,6 +17008,14 @@
           "author": "Stevan Kragujević (1922–2002)",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stevan_Kragujevic%2C_Tito%2C_Naser%2C_Nehru%2C_Dolazak_na_Brione.jpg"
+        },
+        {
+          "src": "images/e5ab165c69206dea.jpg",
+          "w": 500,
+          "h": 321,
+          "caption": "First Non-Aligned summit, Belgrade, 1961",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Konferencija_Pokreta_nesvrstanih_1961._godine.jpg"
         }
       ],
       "sources": [
@@ -16588,7 +17026,7 @@
       ],
       "type": "Foreign relations",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "sino-indian-war",
@@ -16969,6 +17407,15 @@
           "author": "Manjulkumar",
           "license": "CC BY 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:SBI_Mumbai_LHO.jpg"
+        },
+        {
+          "src": "images/4d8795b03aa1b085.jpg",
+          "w": 500,
+          "h": 714,
+          "caption": "Indira Gandhi",
+          "author": "Anefo",
+          "license": "CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Face_detail%2C_Premier_Indira_Gandhi_%28Congrespartij%29%2C_Bestanddeelnr_929-0811_%28cropped%29.jpg"
         }
       ],
       "sources": [
@@ -16979,7 +17426,7 @@
       ],
       "type": "Economy",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "isro-founded",
@@ -17263,6 +17710,24 @@
           "author": "FelipeRev",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kingdom_of_Sikkim.png"
+        },
+        {
+          "src": "images/c6ac79b6135805bb.jpg",
+          "w": 500,
+          "h": 533,
+          "caption": "Administrative divisions of Sikkim in 1898",
+          "author": "L. A. Waddell",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sikkim_map_1898.jpg"
+        },
+        {
+          "src": "images/e767b5b8bcbc03e8.jpg",
+          "w": 500,
+          "h": 832,
+          "caption": "Palden Thondup Namgyal, the last Chogyal of Sikkim",
+          "author": "Alice S. Kandell",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palden_Thondup_Namgyal.jpg"
         }
       ],
       "sources": [
@@ -17273,7 +17738,7 @@
       ],
       "type": "Politics",
       "majorScore": 4,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "emergency",
@@ -17655,6 +18120,15 @@
           "author": "Legaleagle86 at English Wikipedia.",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_-_200705_%28cropped%29.jpg"
+        },
+        {
+          "src": "images/69f6c5f0ad31d5a5.jpg",
+          "w": 500,
+          "h": 668,
+          "caption": "Mother and child sculpture inside the Supreme Court of India",
+          "author": "Pinakpani",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inside_the_Supreme_Court_of_India._16.jpg"
         }
       ],
       "sources": [
@@ -17665,7 +18139,7 @@
       ],
       "type": "Society",
       "majorScore": 4,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "ramayan-tv",
@@ -18175,6 +18649,14 @@
           "author": "Maximilian Dörrbecker (Chumwa)",
           "license": "CC BY-SA 2.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rapid_Transit_Map_of_Delhi.jpg"
+        },
+        {
+          "src": "images/2bd0d31ee0b80a5d.jpg",
+          "w": 500,
+          "h": 375,
+          "caption": "A Delhi Metro train on Line 1",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Delhi_Metro.jpg"
         }
       ],
       "sources": [
@@ -18185,7 +18667,7 @@
       ],
       "type": "Economy",
       "majorScore": 4,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "gujarat-2002",
@@ -18252,6 +18734,15 @@
           "author": "NASA",
           "license": "Public domain",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sts-87_crew.jpg"
+        },
+        {
+          "src": "images/74c734bb0d54aa0b.jpg",
+          "w": 500,
+          "h": 400,
+          "caption": "The STS-107 crew, 2001",
+          "author": "NASA",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crew_of_STS-107%2C_official_photo.jpg"
         }
       ],
       "sources": [
@@ -18262,7 +18753,7 @@
       ],
       "type": "Science",
       "majorScore": 3,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "tsunami-2004",
@@ -18691,6 +19182,15 @@
           "author": "FlyJet777",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014_Indian_General_Election_Result_Map_Alliance_Wise.svg"
+        },
+        {
+          "src": "images/b0d118e075031764.jpg",
+          "w": 500,
+          "h": 333,
+          "caption": "A campaign rally during the 2014 general election",
+          "author": "User:Jeevanreddy007",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gathering_during_Ch_Malla_Reddy_Campaign_for_General_Elections_2014_2014-05-30_18-28.jpg"
         }
       ],
       "sources": [
@@ -18701,7 +19201,7 @@
       ],
       "type": "Politics",
       "majorScore": 7,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "demonetisation",
@@ -18897,7 +19397,26 @@
       "title": "Chandrayaan-3 lands near the lunar south pole",
       "short": "Chandrayaan-3's Vikram lander touched down near the Moon's south pole, making India the fourth country to soft-land on the Moon and the first near its south pole.",
       "detail": "In 2019 Chandrayaan-2's lander lost contact about 2 km above the surface and crashed. ISRO learned from the failure and strengthened the lander's software and legs. Chandrayaan-3 was launched from Sriharikota on 14 July 2023, and on the evening of 23 August the Vikram lander, named after Vikram Sarabhai, touched down gently at about 69 degrees south, watched live by tens of millions of jubilant Indians. The Pragyan rover then drove out and travelled about 100 metres, detecting sulphur and other elements. India became the fourth country, after the Soviet Union, the United States and China, to soft-land on the Moon. The site was named Shiv Shakti Point, and 23 August is National Space Day.",
-      "images": [],
+      "images": [
+        {
+          "src": "images/16df5126614601d6.jpg",
+          "w": 500,
+          "h": 281,
+          "caption": "Model of the Vikram lander and Pragyan rover",
+          "author": "4-RAZOR 01",
+          "license": "CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:VIKRAM%26PRAGYANMODEL.jpg"
+        },
+        {
+          "src": "images/d61a395206b0053d.jpg",
+          "w": 500,
+          "h": 375,
+          "caption": "People in Kolkata watching the landing live",
+          "author": "Biswarup Ganguly",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:People_Observing_Live_Telecast_Of_The_Chandrayaan-3_Mission_Soft-landing_Successfully_On_The_Moon_By_The_ISRO_-_BITM_-_Kolkata_20230823_162244.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Chandrayaan-3",
@@ -18906,7 +19425,7 @@
       ],
       "type": "Science",
       "majorScore": 6,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     },
     {
       "id": "g20-delhi",
@@ -19003,6 +19522,15 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_General_Election_2024.svg"
         },
         {
+          "src": "images/adb5c61138c914e6.png",
+          "w": 500,
+          "h": 616,
+          "caption": "2024 general election results by alliance",
+          "author": "FlyJet777",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_Indian_General_Election_Result_Map_Alliance_Wise.svg"
+        },
+        {
           "src": "images/0b87862c8715c201.png",
           "w": 500,
           "h": 530,
@@ -19020,7 +19548,7 @@
       ],
       "type": "Politics",
       "majorScore": 5,
-      "updatedAt": 1793476572
+      "updatedAt": 1793478457
     }
   ]
 }
